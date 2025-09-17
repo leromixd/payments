@@ -1,2 +1,2 @@
-# payments.github.io
-hello you
+# Payments Method
+SberBank - 
